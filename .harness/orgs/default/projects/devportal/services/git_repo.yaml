@@ -1,0 +1,5 @@
+service:
+  name: git repo
+  identifier: git_repo
+  orgIdentifier: default
+  projectIdentifier: devportal
